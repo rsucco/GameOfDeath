@@ -10,6 +10,10 @@ You can build the code yourself with GameMaker Studio 2, or you can use one of t
 #### Windows
 Download and run `gameofdeath.exe`
 #### MacOS
-Download and run `gameofdeath.dmg`
+Download and install `gameofdeath.dmg`
 #### Linux
-Coming soon
+```bash
+tar xzf gameofdeath.tar.gz
+cd gameofdeath
+./gameofdeath.sh
+```
